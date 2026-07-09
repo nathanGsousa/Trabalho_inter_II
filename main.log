@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.8)  9 JUL 2026 15:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.7.8)  9 JUL 2026 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1215,7 +1215,15 @@ Package pdftex.def Info: figuras/nyt.jpeg  used on input line 314.
 (pdftex.def)             Requested size: 103.62231pt x 65.2499pt.
  [10
 
- <./figuras/trailer.png> <./figuras/nyt.jpeg>] [11
+ <./figuras/trailer.png> <./figuras/nyt.jpeg>]
+<figuras/var_pib_mundo.png, id=318, 470.50781pt x 271.0125pt>
+File: figuras/var_pib_mundo.png Graphic file (type png)
+<use figuras/var_pib_mundo.png>
+Package pdftex.def Info: figuras/var_pib_mundo.png  used on input line 327.
+(pdftex.def)             Requested size: 237.46371pt x 136.77959pt.
+ [11
+
+ <./figuras/var_pib_mundo.png>] [12
 
 ]
 \tf@nav=\write6
@@ -1236,17 +1244,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 41562 strings out of 467870
- 972660 string characters out of 5418356
+ 41597 strings out of 467870
+ 973982 string characters out of 5418356
  1477168 words of memory out of 5000000
- 69565 multiletter control sequences out of 15000+600000
+ 69598 multiletter control sequences out of 15000+600000
  696506 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,123p,1095b,887s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on main.pdf (11 pages, 21977493 bytes).
+Output written on main.pdf (12 pages, 21999563 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 41678 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 415 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 41827 words of extra memory for PDF output out of 42996 (max. 10000000)
 

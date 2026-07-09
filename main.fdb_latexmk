@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1783622201.57525 "c:/Users/arthu/OneDrive/Desktop/Projetos faculdade/trabalho_internacional/Trabalho_inter_II/main.tex" "main.pdf" "main" 1783622207.68707 0
+["pdflatex"] 1783628895.21334 "c:/Users/arthu/OneDrive/Desktop/Projetos faculdade/trabalho_internacional/Trabalho_inter_II/main.tex" "main.pdf" "main" 1783628901.6555 0
   "C:/Users/arthu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1783526821 82686 2381c3433487640bf26aa76a10db7eb2 ""
   "C:/Users/arthu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1783525713 13333527 c9f4f59f83c57160d1a9a5e76c991af8 ""
   "C:/Users/arthu/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -288,7 +288,7 @@
   "C:/Users/arthu/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/arthu/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/arthu/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/arthu/OneDrive/Desktop/Projetos faculdade/trabalho_internacional/Trabalho_inter_II/main.tex" 1783622194 13359 23f86eee289f42a1aa3e5666541514e5 ""
+  "c:/Users/arthu/OneDrive/Desktop/Projetos faculdade/trabalho_internacional/Trabalho_inter_II/main.tex" 1783628894 15127 f20c2601580d9ea763180dd09e2c9238 ""
   "figuras/LMB.png" 1783615647 9231796 0c1197c21464fe478e67177255dbdbcf ""
   "figuras/RR.jpg" 1783615647 742227 75d7972a27db82090b0d5bd807ff51b9 ""
   "figuras/Rplot01.png" 1783615647 6350 e81859f0a6445a59f8938242adb43bb2 ""
@@ -298,11 +298,12 @@
   "figuras/logo_ufcg_melhor.png" 1783615648 793784 eed88879f57e89fd38483ab5f0283e3e ""
   "figuras/nyt.jpeg" 1783621485 37501 a7bf2adf5eb15127469cfc9bedc25218 ""
   "figuras/trailer.png" 1783619563 10607911 f2b6cedd85389cf7a202d26a01ae926c ""
-  "main.aux" 1783622207 2030 040240788c6d60fbb16f26dfed1f395e "pdflatex"
-  "main.nav" 1783622207 1202 a971439ba5eedf62b158aa4c3f07763d "pdflatex"
-  "main.out" 1783622203 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1783622194 13359 23f86eee289f42a1aa3e5666541514e5 ""
-  "main.toc" 1783622207 29 9a4c7bc9daf7936d0a55d1536c7c4aff "pdflatex"
+  "figuras/var_pib_mundo.png" 1783628119 6074 9ff53ba70ba92a3bdcb865de89860722 ""
+  "main.aux" 1783628901 2159 3bf3f25593bd5351e85bfd0c0983238c "pdflatex"
+  "main.nav" 1783628901 1295 ef040a83926d85743749b42a2275f515 "pdflatex"
+  "main.out" 1783628897 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1783628894 15127 f20c2601580d9ea763180dd09e2c9238 ""
+  "main.toc" 1783628901 29 9a4c7bc9daf7936d0a55d1536c7c4aff "pdflatex"
   (generated)
   "main.aux"
   "main.log"
